@@ -32,7 +32,7 @@ function Home() {
             <div className="w-[100px] h-[100px] md:w-[125px] md:h-[125px] bg-white rounded-2xl p-3 shadow-2xl flex items-center justify-center">
 
               <img
-                src="/src/assets/neit-logo.png"
+                src="/neit-logo.png"
                 alt="NEIT Logo"
                 className="w-full h-full object-contain"
               />
@@ -76,8 +76,8 @@ function Home() {
             <div className="w-[100px] h-[100px] md:w-[125px] md:h-[125px] bg-white rounded-2xl p-3 shadow-2xl flex items-center justify-center">
 
               <img
-                src="/src/assets/avatar-logo.png"
-                alt="AVATAR Logo"
+                src="/avatar-logo.png"
+                alt="AVATAR 2026 Logo"
                 className="w-full h-full object-contain"
               />
 
@@ -91,7 +91,6 @@ function Home() {
         {/* ================= WELCOME CARD ================= */}
 
         <div className="w-full max-w-[520px]">
-
 
           <div className="bg-[#1b1e2d]/95 backdrop-blur-xl border border-white/20 rounded-3xl shadow-2xl px-8 py-9 md:px-12 md:py-10">
 
@@ -153,8 +152,6 @@ function Home() {
 
             </button>
 
-
-   
 
             {/* ================= FOOTER ================= */}
 
